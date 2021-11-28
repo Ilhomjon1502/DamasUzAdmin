@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "407890683107",
+    "project_id": "damasuzdemo",
+    "storage_bucket": "damasuzdemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407890683107:android:51535d3eb1cd90d15e91d6",
+        "android_client_info": {
+          "package_name": "uz.ilhomjon.damasuzadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407890683107-liv1hefsun9h32kilcasvldfqll5647n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRjxSvaO8_iqu8-UFoCvvTpQBAntMmQF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407890683107-liv1hefsun9h32kilcasvldfqll5647n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

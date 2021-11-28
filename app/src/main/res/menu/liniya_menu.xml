@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/lin_nom_ozgartirish"
+        android:title="Liniya nomini ozgartirish"/>
+    <item
+        android:title="Haydovchilar royhati"
+        android:id="@+id/liniya_hay_roy"/>
+    <item
+        android:title="Ochirish"
+        android:id="@+id/liniya_ochirish"/>
+    <item
+        android:title="Xaritadagi yolni tahrirlash"
+        android:id="@+id/liniya_xarita_tahrir"/>
+
+</menu>
